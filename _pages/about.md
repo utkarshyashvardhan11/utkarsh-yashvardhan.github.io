@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-**This website is under construction. Kindly visit later.**
+<!-- **This website is under construction. Kindly visit later.** -->
 
 I am currently pursuing a dual degree in M.Sc. Mathematics and B.E. Computer Science from BITS Pilani (Pilani Campus)
 
