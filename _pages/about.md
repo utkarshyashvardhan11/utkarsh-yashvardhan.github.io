@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 I am currently pursuing a dual degree in M.Sc. Mathematics and B.E. Computer Science from BITS Pilani (Pilani Campus)
 
-I have done some great projects under professors of BITS Pilani and learned a lot about programming while doing those projects. I have also interned at LTI as a software developer and was the co-lead of the competitive coding SIG in the MLSA, BITS Pilani chapter. I know how to work in a fast-paced environment to give high-quality results.
+I have done some great projects under professors of BITS Pilani and learned a lot about programming while doing those projects. I have also interned at LTI as a backend developer and was the co-lead of the competitive coding SIG in the MLSA, BITS Pilani chapter. I know how to work in a fast-paced environment to give high-quality results.
 
 I also bagged a scholarship in my second semester of college given to the top 2% performers of the batch.
 
