@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Senior @ <a href='https://www.bits-pilani.ac.in/'>BITS Pilani</a> | Research Assistant @ <a href='https://bitsiotlab.com/'>BITS IOT Lab</a> | Ex-Software Engineer Intern @ <a href='https://www.linkedin.com/company/l&t-infotech/?originalSubdomain=in'>LTI</a> | Ex-Competetive Coding SIG Lead @ <a href='https://www.linkedin.com/company/mlsa-bits-pilani/?originalSubdomain=in'>MLSA, BITS Pilani Chapter</a>
+subtitle: Senior @ <a href='https://www.bits-pilani.ac.in/'>BITS Pilani</a> | Research Assistant @ <a href='https://bitsiotlab.com/'>BITS IOT Lab</a> | Ex-Backend Developer Intern @ <a href='https://www.linkedin.com/company/l&t-infotech/?originalSubdomain=in'>LTI</a> | Ex-Competetive Coding SIG Lead @ <a href='https://www.linkedin.com/company/mlsa-bits-pilani/?originalSubdomain=in'>MLSA, BITS Pilani Chapter</a>
 
 profile:
   align: right
