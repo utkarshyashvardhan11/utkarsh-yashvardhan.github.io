@@ -4,6 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 4
-cv_pdf: resume_UY.pdf
-redirct: https://drive.google.com/file/d/14Zo3uLZnv6GfTD031xUK63YhEgcCWAc8/view?usp=sharing
+cv_pdf: CV_UY.pdf
+redirct: https://drive.google.com/file/d/1vpUCOOMdzP02SWWGOqcxmEn-pPA2d-0I/view?usp=sharing
 ---
