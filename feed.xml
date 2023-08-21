@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://utkarshyashvardhan11.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://utkarshyashvardhan11.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-08-21T08:13:53+00:00</updated><id>https://utkarshyashvardhan11.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://utkarshyashvardhan11.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://utkarshyashvardhan11.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-08-21T09:11:57+00:00</updated><id>https://utkarshyashvardhan11.github.io/feed.xml</id><title type="html">blank</title><subtitle>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 </subtitle><entry><title type="html">First Degree Thesis</title><link href="https://utkarshyashvardhan11.github.io/blog/2023/sidebar-table-of-contents/" rel="alternate" type="text/html" title="First Degree Thesis" /><published>2023-07-20T14:14:00+00:00</published><updated>2023-07-20T14:14:00+00:00</updated><id>https://utkarshyashvardhan11.github.io/blog/2023/sidebar-table-of-contents</id><content type="html" xml:base="https://utkarshyashvardhan11.github.io/blog/2023/sidebar-table-of-contents/"><![CDATA[<h4 id="thesis-topic">Thesis Topic</h4>
 <p>Computational Photography using Federated Learning</p>
 
@@ -36,7 +36,7 @@
 <p>Talked to Pallavi ma’am about it. We agreed on dividing the tasks. While she works on image restoration, I will work on bokeh rendering. Going through the collected research papers on bokeh rendering.</p>
 
 <h5 id="21082023">21/08/2023</h5>
-<p>Logged in the server via the credentials shared by Pallavi ma’am. Many dependencies need to be installed here for an ML model to run in it.</p>
+<p>Logged in the server via the credentials shared by Pallavi ma’am. Many dependencies need to be installed here for an ML model to run on it. Tried to run <a href="https://github.com/saikatdutta/Stacked_DMSHN_bokeh">this</a> model on the server.</p>
 
 <!-- This post shows how to add a table of contents as a sidebar.
 
