@@ -47,7 +47,7 @@ Went to meet Pratik sir regarding work to be done in thesis, what should be the 
 Talked to Pallavi ma'am about it. We agreed on dividing the tasks. While she works on image restoration, I will work on bokeh rendering. Going through the collected research papers on bokeh rendering.
 
 ##### 21/08/2023
-Logged in the server via the credentials shared by Pallavi ma'am. Many dependencies need to be installed here for an ML model to run in it.
+Logged in the server via the credentials shared by Pallavi ma'am. Many dependencies need to be installed here for an ML model to run on it. Tried to run <a href="https://github.com/saikatdutta/Stacked_DMSHN_bokeh">this</a> model on the server.
 
 
 
