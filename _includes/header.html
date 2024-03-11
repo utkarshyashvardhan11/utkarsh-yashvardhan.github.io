@@ -61,6 +61,22 @@
                 </a>
               </li>
               {%- endif %}
+              <!-- Projects
+              <li class="nav-item {% if page.url contains 'Projects' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/_pages/projects.md' | relative_url }}">{{ 'Projects' }}
+                  {%- if page.url contains 'Projects' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <!-- CV -->
+              <!-- <li class="nav-item {% if page.url contains 'CV' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/assets/pdf/CV_UY.pdf/' | relative_url }}">{{ 'CV' }}
+                  {%- if page.url contains 'CV' -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a> -->
+              <!-- </li> -->
 
               <!-- Other pages -->
               {%- assign sorted_pages = site.pages | sort: "nav_order" -%}
